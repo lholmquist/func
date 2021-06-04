@@ -1,6 +1,14 @@
 # Change Log
 
 <a name="unreleased"></a>
+## [0.16.0](https://www.github.com/boson-project/func/compare/v0.15.1...v0.16.0) (2021-06-04)
+
+
+### Features
+
+* reference ConfigMaps in `envs` and `volumes` sections in config ([#371](https://www.github.com/boson-project/func/issues/371)) ([1dbb5ae](https://www.github.com/boson-project/func/commit/1dbb5aecbf73cd77a648eaff5e52c1c3ce282a67))
+* reference Secrets in `envs` and `volumes` sections in config ([#369](https://www.github.com/boson-project/func/issues/369)) ([9d7fd34](https://www.github.com/boson-project/func/commit/9d7fd346495b119e895747d747c1c0a5bacb988e))
+
 ### [0.15.1](https://www.github.com/boson-project/func/compare/v0.15.0...v0.15.1) (2021-05-27)
 
 
